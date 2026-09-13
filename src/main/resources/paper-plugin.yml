@@ -1,0 +1,23 @@
+name: PaperizE
+version: '0.1.0'
+main: com.paperize.PaperizEPlugin
+api-version: '26.1'
+authors: [PaperizE]
+description: PaperizE —— ProjectE（等价交换）内容项目（独立工程；以 CEPlus 为加载引擎，经其接入 CraftEngine）
+permissions:
+  paperize.use:
+    description: 使用炼金命令与界面
+    default: true
+  paperize.admin:
+    description: 管理命令（重载/给予）
+    default: op
+dependencies:
+  server:
+    CEPlus:
+      load: BEFORE
+      required: true
+      join-classpath: true
+    CraftEngine:
+      load: BEFORE
+      required: false
+      join-classpath: true

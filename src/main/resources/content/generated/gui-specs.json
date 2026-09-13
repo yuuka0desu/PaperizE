@@ -1,0 +1,383 @@
+{
+ "transmutation": {
+  "texture": "transmute.png",
+  "size": [
+   256,
+   256
+  ],
+  "slots": {
+   "INPUT": {
+    "x": 43,
+    "y": 24,
+    "count": 1
+   },
+   "OUTPUT": {
+    "x": 79,
+    "y": 24,
+    "count": 1
+   },
+   "LOCK": {
+    "x": 61,
+    "y": 24,
+    "count": 1
+   }
+  },
+  "player_inv": {
+   "x": 8,
+   "y": 84
+  }
+ },
+ "alchemical_chest": {
+  "texture": "alchchest.png",
+  "size": [
+   256,
+   256
+  ],
+  "slots": {
+   "STORAGE": {
+    "x": 8,
+    "y": 9,
+    "count": 104,
+    "grid": "13x8"
+   }
+  },
+  "player_inv": {
+   "x": 8,
+   "y": 104
+  }
+ },
+ "collector_mk1": {
+  "texture": "collector1.png",
+  "size": [
+   256,
+   256
+  ],
+  "slots": {
+   "INPUT": {
+    "x": 124,
+    "y": 58,
+    "count": 1
+   },
+   "OUTPUT": {
+    "x": 8,
+    "y": 18,
+    "count": 9,
+    "grid": "3x3"
+   },
+   "UPGRADE": {
+    "x": 124,
+    "y": 13,
+    "count": 2
+   },
+   "GHOST": {
+    "x": 153,
+    "y": 36,
+    "count": 1
+   }
+  },
+  "player_inv": {
+   "x": 8,
+   "y": 84
+  }
+ },
+ "collector_mk2": {
+  "texture": "collector2.png",
+  "size": [
+   256,
+   256
+  ],
+  "slots": {
+   "INPUT": {
+    "x": 124,
+    "y": 58,
+    "count": 1
+   },
+   "OUTPUT": {
+    "x": 8,
+    "y": 18,
+    "count": 9,
+    "grid": "3x3"
+   },
+   "UPGRADE": {
+    "x": 124,
+    "y": 13,
+    "count": 2
+   },
+   "GHOST": {
+    "x": 153,
+    "y": 36,
+    "count": 1
+   }
+  },
+  "player_inv": {
+   "x": 8,
+   "y": 84
+  }
+ },
+ "collector_mk3": {
+  "texture": "collector3.png",
+  "size": [
+   256,
+   256
+  ],
+  "slots": {
+   "INPUT": {
+    "x": 124,
+    "y": 58,
+    "count": 1
+   },
+   "OUTPUT": {
+    "x": 8,
+    "y": 18,
+    "count": 9,
+    "grid": "3x3"
+   },
+   "UPGRADE": {
+    "x": 124,
+    "y": 13,
+    "count": 2
+   },
+   "GHOST": {
+    "x": 153,
+    "y": 36,
+    "count": 1
+   }
+  },
+  "player_inv": {
+   "x": 8,
+   "y": 84
+  }
+ },
+ "relay_mk1": {
+  "texture": "relay1.png",
+  "size": [
+   256,
+   256
+  ],
+  "slots": {
+   "INPUT": {
+    "x": 8,
+    "y": 8,
+    "count": 1
+   },
+   "OUTPUT": {
+    "x": 8,
+    "y": 26,
+    "count": 1
+   },
+   "UPGRADE": {
+    "x": 120,
+    "y": 8,
+    "count": 2
+   }
+  },
+  "player_inv": {
+   "x": 8,
+   "y": 84
+  }
+ },
+ "relay_mk2": {
+  "texture": "relay2.png",
+  "size": [
+   256,
+   256
+  ],
+  "slots": {
+   "INPUT": {
+    "x": 8,
+    "y": 8,
+    "count": 1
+   },
+   "OUTPUT": {
+    "x": 8,
+    "y": 26,
+    "count": 1
+   },
+   "UPGRADE": {
+    "x": 120,
+    "y": 8,
+    "count": 2
+   }
+  },
+  "player_inv": {
+   "x": 8,
+   "y": 84
+  }
+ },
+ "relay_mk3": {
+  "texture": "relay3.png",
+  "size": [
+   256,
+   256
+  ],
+  "slots": {
+   "INPUT": {
+    "x": 8,
+    "y": 8,
+    "count": 1
+   },
+   "OUTPUT": {
+    "x": 8,
+    "y": 26,
+    "count": 1
+   },
+   "UPGRADE": {
+    "x": 120,
+    "y": 8,
+    "count": 2
+   }
+  },
+  "player_inv": {
+   "x": 8,
+   "y": 84
+  }
+ },
+ "condenser_mk1": {
+  "texture": "condenser.png",
+  "size": [
+   256,
+   256
+  ],
+  "slots": {
+   "INPUT": {
+    "x": 26,
+    "y": 35,
+    "count": 91,
+    "grid": "13x7"
+   },
+   "TARGET": {
+    "x": 123,
+    "y": 35,
+    "count": 1
+   },
+   "OUTPUT": {
+    "x": 168,
+    "y": 35,
+    "count": 1
+   },
+   "LOCK": {
+    "x": 146,
+    "y": 35,
+    "count": 1
+   }
+  },
+  "player_inv": {
+   "x": 8,
+   "y": 84
+  }
+ },
+ "condenser_mk2": {
+  "texture": "condenser_mk2.png",
+  "size": [
+   256,
+   256
+  ],
+  "slots": {
+   "INPUT": {
+    "x": 26,
+    "y": 35,
+    "count": 91,
+    "grid": "13x7"
+   },
+   "TARGET": {
+    "x": 123,
+    "y": 35,
+    "count": 1
+   },
+   "OUTPUT": {
+    "x": 168,
+    "y": 35,
+    "count": 1
+   },
+   "LOCK": {
+    "x": 146,
+    "y": 35,
+    "count": 1
+   }
+  },
+  "player_inv": {
+   "x": 8,
+   "y": 84
+  }
+ },
+ "dm_furnace": {
+  "texture": "dmfurnace.png",
+  "size": [
+   256,
+   256
+  ],
+  "slots": {
+   "INPUT": {
+    "x": 67,
+    "y": 35,
+    "count": 1
+   },
+   "FUEL": {
+    "x": 67,
+    "y": 71,
+    "count": 1
+   },
+   "OUTPUT": {
+    "x": 127,
+    "y": 35,
+    "count": 1
+   }
+  },
+  "player_inv": {
+   "x": 8,
+   "y": 84
+  }
+ },
+ "rm_furnace": {
+  "texture": "rmfurnace.png",
+  "size": [
+   256,
+   256
+  ],
+  "slots": {
+   "INPUT": {
+    "x": 67,
+    "y": 35,
+    "count": 1
+   },
+   "FUEL": {
+    "x": 67,
+    "y": 71,
+    "count": 1
+   },
+   "OUTPUT": {
+    "x": 127,
+    "y": 35,
+    "count": 1
+   }
+  },
+  "player_inv": {
+   "x": 8,
+   "y": 84
+  }
+ },
+ "manual": {
+  "texture": "book_texture.png",
+  "size": [
+   256,
+   256
+  ],
+  "slots": {}
+ },
+ "merc_eye": {
+  "texture": "mercurial_eye.png",
+  "size": [
+   256,
+   256
+  ],
+  "slots": {}
+ },
+ "eternal_density": {
+  "texture": "eternal_density.png",
+  "size": [
+   256,
+   256
+  ],
+  "slots": {}
+ }
+}

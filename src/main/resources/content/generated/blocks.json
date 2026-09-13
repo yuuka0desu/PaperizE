@@ -1,0 +1,278 @@
+{
+ "aeternalis_fuel_block": {
+  "id": "projecte:aeternalis_fuel_block",
+  "nameKey": "block.projecte.aeternalis_fuel_block",
+  "model": "projecte:block/aeternalis_fuel_block",
+  "blockstates": [
+   "aeternalis_fuel_block"
+  ],
+  "hardness": 5.0,
+  "resistance": 6.0,
+  "orientation": null,
+  "light": 0,
+  "zhName": "永恒燃料块"
+ },
+ "alchemical_chest": {
+  "id": "projecte:alchemical_chest",
+  "nameKey": "block.projecte.alchemical_chest",
+  "model": "projecte:block/alchemical_chest",
+  "blockstates": [
+   "alchemical_chest"
+  ],
+  "hardness": 3.0,
+  "resistance": 6.0,
+  "orientation": null,
+  "light": 0,
+  "zhName": "炼金术箱子"
+ },
+ "alchemical_coal_block": {
+  "id": "projecte:alchemical_coal_block",
+  "nameKey": "block.projecte.alchemical_coal_block",
+  "model": "projecte:block/alchemical_coal_block",
+  "blockstates": [
+   "alchemical_coal_block"
+  ],
+  "hardness": 5.0,
+  "resistance": 6.0,
+  "orientation": null,
+  "light": 0,
+  "zhName": "炼金煤炭块"
+ },
+ "collector_mk1": {
+  "id": "projecte:collector_mk1",
+  "nameKey": "block.projecte.collector_mk1",
+  "model": "projecte:block/collector_mk1",
+  "blockstates": [
+   "collector_mk1"
+  ],
+  "hardness": 3.5,
+  "resistance": 10.0,
+  "orientation": "facing",
+  "light": 0,
+  "zhName": "能量收集器MK1"
+ },
+ "collector_mk2": {
+  "id": "projecte:collector_mk2",
+  "nameKey": "block.projecte.collector_mk2",
+  "model": "projecte:block/collector_mk2",
+  "blockstates": [
+   "collector_mk2"
+  ],
+  "hardness": 3.5,
+  "resistance": 10.0,
+  "orientation": "facing",
+  "light": 0,
+  "zhName": "能量收集器MK2"
+ },
+ "collector_mk3": {
+  "id": "projecte:collector_mk3",
+  "nameKey": "block.projecte.collector_mk3",
+  "model": "projecte:block/collector_mk3",
+  "blockstates": [
+   "collector_mk3"
+  ],
+  "hardness": 3.5,
+  "resistance": 10.0,
+  "orientation": "facing",
+  "light": 0,
+  "zhName": "能量收集器MK3"
+ },
+ "condenser_mk1": {
+  "id": "projecte:condenser_mk1",
+  "nameKey": "block.projecte.condenser_mk1",
+  "model": "projecte:block/condenser_mk1",
+  "blockstates": [
+   "condenser_mk1"
+  ],
+  "hardness": 3.5,
+  "resistance": 10.0,
+  "orientation": "facing",
+  "light": 0,
+  "zhName": "能量凝聚器"
+ },
+ "condenser_mk2": {
+  "id": "projecte:condenser_mk2",
+  "nameKey": "block.projecte.condenser_mk2",
+  "model": "projecte:block/condenser_mk2",
+  "blockstates": [
+   "condenser_mk2"
+  ],
+  "hardness": 3.5,
+  "resistance": 10.0,
+  "orientation": "facing",
+  "light": 0,
+  "zhName": "能量凝聚器MK2"
+ },
+ "dark_matter_block": {
+  "id": "projecte:dark_matter_block",
+  "nameKey": "block.projecte.dark_matter_block",
+  "model": "projecte:block/dark_matter_block",
+  "blockstates": [
+   "dark_matter_block"
+  ],
+  "hardness": 5.0,
+  "resistance": 30.0,
+  "orientation": null,
+  "light": 0,
+  "zhName": "暗物质方块"
+ },
+ "dm_furnace": {
+  "id": "projecte:dm_furnace",
+  "nameKey": "block.projecte.dm_furnace",
+  "model": "projecte:block/dm_furnace",
+  "blockstates": [
+   "dm_furnace"
+  ],
+  "hardness": 3.5,
+  "resistance": 10.0,
+  "orientation": "facing",
+  "light": 0,
+  "zhName": "暗物质熔炉"
+ },
+ "dm_pedestal": {
+  "id": "projecte:dm_pedestal",
+  "nameKey": "block.projecte.dm_pedestal",
+  "model": "projecte:block/dm_pedestal",
+  "blockstates": [
+   "dm_pedestal"
+  ],
+  "hardness": 3.5,
+  "resistance": 10.0,
+  "orientation": null,
+  "light": 0,
+  "zhName": "暗物质台座"
+ },
+ "interdiction_torch": {
+  "id": "projecte:interdiction_torch",
+  "nameKey": "block.projecte.interdiction_torch",
+  "model": "projecte:block/interdiction_torch",
+  "blockstates": [
+   "interdiction_torch",
+   "wall_interdiction_torch"
+  ],
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "orientation": "torch",
+  "light": 14,
+  "zhName": "禁止火把"
+ },
+ "mobius_fuel_block": {
+  "id": "projecte:mobius_fuel_block",
+  "nameKey": "block.projecte.mobius_fuel_block",
+  "model": "projecte:block/mobius_fuel_block",
+  "blockstates": [
+   "mobius_fuel_block"
+  ],
+  "hardness": 5.0,
+  "resistance": 6.0,
+  "orientation": null,
+  "light": 0,
+  "zhName": "莫比乌斯燃料块"
+ },
+ "nova_cataclysm": {
+  "id": "projecte:nova_cataclysm",
+  "nameKey": "block.projecte.nova_cataclysm",
+  "model": "projecte:block/nova_cataclysm",
+  "blockstates": [
+   "nova_cataclysm"
+  ],
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "orientation": null,
+  "light": 0,
+  "explosive": "nova_cataclysm",
+  "zhName": "灾难新星"
+ },
+ "nova_catalyst": {
+  "id": "projecte:nova_catalyst",
+  "nameKey": "block.projecte.nova_catalyst",
+  "model": "projecte:block/nova_catalyst",
+  "blockstates": [
+   "nova_catalyst"
+  ],
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "orientation": null,
+  "light": 0,
+  "explosive": "nova_catalyst",
+  "zhName": "爆破新星"
+ },
+ "red_matter_block": {
+  "id": "projecte:red_matter_block",
+  "nameKey": "block.projecte.red_matter_block",
+  "model": "projecte:block/red_matter_block",
+  "blockstates": [
+   "red_matter_block"
+  ],
+  "hardness": 5.0,
+  "resistance": 30.0,
+  "orientation": null,
+  "light": 0,
+  "zhName": "红物质方块"
+ },
+ "relay_mk1": {
+  "id": "projecte:relay_mk1",
+  "nameKey": "block.projecte.relay_mk1",
+  "model": "projecte:block/relay_mk1",
+  "blockstates": [
+   "relay_mk1"
+  ],
+  "hardness": 3.5,
+  "resistance": 10.0,
+  "orientation": "facing",
+  "light": 0,
+  "zhName": "反物质继电器MK1"
+ },
+ "relay_mk2": {
+  "id": "projecte:relay_mk2",
+  "nameKey": "block.projecte.relay_mk2",
+  "model": "projecte:block/relay_mk2",
+  "blockstates": [
+   "relay_mk2"
+  ],
+  "hardness": 3.5,
+  "resistance": 10.0,
+  "orientation": "facing",
+  "light": 0,
+  "zhName": "反物质继电器MK2"
+ },
+ "relay_mk3": {
+  "id": "projecte:relay_mk3",
+  "nameKey": "block.projecte.relay_mk3",
+  "model": "projecte:block/relay_mk3",
+  "blockstates": [
+   "relay_mk3"
+  ],
+  "hardness": 3.5,
+  "resistance": 10.0,
+  "orientation": "facing",
+  "light": 0,
+  "zhName": "反物质继电器MK3"
+ },
+ "rm_furnace": {
+  "id": "projecte:rm_furnace",
+  "nameKey": "block.projecte.rm_furnace",
+  "model": "projecte:block/rm_furnace",
+  "blockstates": [
+   "rm_furnace"
+  ],
+  "hardness": 3.5,
+  "resistance": 10.0,
+  "orientation": "facing",
+  "light": 0,
+  "zhName": "红物质熔炉"
+ },
+ "transmutation_table": {
+  "id": "projecte:transmutation_table",
+  "nameKey": "block.projecte.transmutation_table",
+  "model": "projecte:block/transmutation_table",
+  "blockstates": [
+   "transmutation_table"
+  ],
+  "hardness": 1.5,
+  "resistance": 6.0,
+  "orientation": "any_facing",
+  "light": 0,
+  "zhName": "转化桌"
+ }
+}

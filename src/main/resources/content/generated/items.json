@@ -1,0 +1,599 @@
+{
+ "aeternalis_fuel": {
+  "id": "projecte:aeternalis_fuel",
+  "nameKey": "item.projecte.aeternalis_fuel",
+  "model": "projecte:item/aeternalis_fuel",
+  "material": "paper",
+  "zhName": "永恒燃料"
+ },
+ "alchemical_coal": {
+  "id": "projecte:alchemical_coal",
+  "nameKey": "item.projecte.alchemical_coal",
+  "model": "projecte:item/alchemical_coal",
+  "material": "paper",
+  "zhName": "炼金煤炭"
+ },
+ "arcana_ring": {
+  "id": "projecte:arcana_ring",
+  "nameKey": "item.projecte.arcana_ring",
+  "model": "projecte:item/arcana_ring",
+  "material": "paper",
+  "zhName": "奥法指环"
+ },
+ "archangel_smite": {
+  "id": "projecte:archangel_smite",
+  "nameKey": "item.projecte.archangel_smite",
+  "model": "projecte:item/archangel_smite",
+  "material": "paper",
+  "zhName": "大天使的惩戒"
+ },
+ "black_alchemical_bag": {
+  "id": "projecte:black_alchemical_bag",
+  "nameKey": "item.projecte.black_alchemical_bag",
+  "model": "projecte:item/black_alchemical_bag",
+  "material": "paper",
+  "zhName": "炼金术之袋"
+ },
+ "black_hole_band": {
+  "id": "projecte:black_hole_band",
+  "nameKey": "item.projecte.black_hole_band",
+  "model": "projecte:item/black_hole_band",
+  "material": "paper",
+  "zhName": "黑洞指环"
+ },
+ "blue_alchemical_bag": {
+  "id": "projecte:blue_alchemical_bag",
+  "nameKey": "item.projecte.blue_alchemical_bag",
+  "model": "projecte:item/blue_alchemical_bag",
+  "material": "paper",
+  "zhName": "炼金术之袋"
+ },
+ "body_stone": {
+  "id": "projecte:body_stone",
+  "nameKey": "item.projecte.body_stone",
+  "model": "projecte:item/body_stone",
+  "material": "paper",
+  "zhName": "身之宝石"
+ },
+ "brown_alchemical_bag": {
+  "id": "projecte:brown_alchemical_bag",
+  "nameKey": "item.projecte.brown_alchemical_bag",
+  "model": "projecte:item/brown_alchemical_bag",
+  "material": "paper",
+  "zhName": "炼金术之袋"
+ },
+ "catalytic_lens": {
+  "id": "projecte:catalytic_lens",
+  "nameKey": "item.projecte.catalytic_lens",
+  "model": "projecte:item/catalytic_lens",
+  "material": "paper",
+  "zhName": "催化水晶"
+ },
+ "cyan_alchemical_bag": {
+  "id": "projecte:cyan_alchemical_bag",
+  "nameKey": "item.projecte.cyan_alchemical_bag",
+  "model": "projecte:item/cyan_alchemical_bag",
+  "material": "paper",
+  "zhName": "炼金术之袋"
+ },
+ "dark_matter": {
+  "id": "projecte:dark_matter",
+  "nameKey": "item.projecte.dark_matter",
+  "model": "projecte:item/dark_matter",
+  "material": "paper",
+  "zhName": "暗物质"
+ },
+ "destruction_catalyst": {
+  "id": "projecte:destruction_catalyst",
+  "nameKey": "item.projecte.destruction_catalyst",
+  "model": "projecte:item/destruction_catalyst",
+  "material": "paper",
+  "zhName": "毁灭燧石"
+ },
+ "divining_rod_1": {
+  "id": "projecte:divining_rod_1",
+  "nameKey": "item.projecte.divining_rod_1",
+  "model": "projecte:item/divining_rod_1",
+  "material": "stick",
+  "zhName": "探知之杖<初级>"
+ },
+ "divining_rod_2": {
+  "id": "projecte:divining_rod_2",
+  "nameKey": "item.projecte.divining_rod_2",
+  "model": "projecte:item/divining_rod_2",
+  "material": "stick",
+  "zhName": "探知之杖<中极>"
+ },
+ "divining_rod_3": {
+  "id": "projecte:divining_rod_3",
+  "nameKey": "item.projecte.divining_rod_3",
+  "model": "projecte:item/divining_rod_3",
+  "material": "stick",
+  "zhName": "探知之杖<高级>"
+ },
+ "dm_axe": {
+  "id": "projecte:dm_axe",
+  "nameKey": "item.projecte.dm_axe",
+  "model": "projecte:item/dm_axe",
+  "material": "netherite_axe",
+  "zhName": "暗物质斧"
+ },
+ "dm_boots": {
+  "id": "projecte:dm_boots",
+  "nameKey": "item.projecte.dm_boots",
+  "model": "projecte:item/dm_boots",
+  "material": "netherite_boots",
+  "zhName": "暗物质靴子"
+ },
+ "dm_chestplate": {
+  "id": "projecte:dm_chestplate",
+  "nameKey": "item.projecte.dm_chestplate",
+  "model": "projecte:item/dm_chestplate",
+  "material": "netherite_chestplate",
+  "zhName": "暗物质胸甲"
+ },
+ "dm_hammer": {
+  "id": "projecte:dm_hammer",
+  "nameKey": "item.projecte.dm_hammer",
+  "model": "projecte:item/dm_hammer",
+  "material": "netherite_axe",
+  "zhName": "暗物质锤"
+ },
+ "dm_helmet": {
+  "id": "projecte:dm_helmet",
+  "nameKey": "item.projecte.dm_helmet",
+  "model": "projecte:item/dm_helmet",
+  "material": "netherite_helmet",
+  "zhName": "暗物质头盔"
+ },
+ "dm_hoe": {
+  "id": "projecte:dm_hoe",
+  "nameKey": "item.projecte.dm_hoe",
+  "model": "projecte:item/dm_hoe",
+  "material": "netherite_hoe",
+  "zhName": "暗物质锄"
+ },
+ "dm_leggings": {
+  "id": "projecte:dm_leggings",
+  "nameKey": "item.projecte.dm_leggings",
+  "model": "projecte:item/dm_leggings",
+  "material": "netherite_leggings",
+  "zhName": "暗物质护腿"
+ },
+ "dm_pick": {
+  "id": "projecte:dm_pick",
+  "nameKey": "item.projecte.dm_pick",
+  "model": "projecte:item/dm_pick",
+  "material": "netherite_pickaxe",
+  "zhName": "暗物质镐"
+ },
+ "dm_shears": {
+  "id": "projecte:dm_shears",
+  "nameKey": "item.projecte.dm_shears",
+  "model": "projecte:item/dm_shears",
+  "material": "shears",
+  "zhName": "暗物质剪刀"
+ },
+ "dm_shovel": {
+  "id": "projecte:dm_shovel",
+  "nameKey": "item.projecte.dm_shovel",
+  "model": "projecte:item/dm_shovel",
+  "material": "netherite_shovel",
+  "zhName": "暗物质铲"
+ },
+ "dm_sword": {
+  "id": "projecte:dm_sword",
+  "nameKey": "item.projecte.dm_sword",
+  "model": "projecte:item/dm_sword",
+  "material": "netherite_sword",
+  "zhName": "暗物质剑"
+ },
+ "evertide_amulet": {
+  "id": "projecte:evertide_amulet",
+  "nameKey": "item.projecte.evertide_amulet",
+  "model": "projecte:item/evertide_amulet",
+  "material": "paper",
+  "zhName": "潮汐护符"
+ },
+ "gem_boots": {
+  "id": "projecte:gem_boots",
+  "nameKey": "item.projecte.gem_boots",
+  "model": "projecte:item/gem_boots",
+  "material": "netherite_boots"
+ },
+ "gem_chestplate": {
+  "id": "projecte:gem_chestplate",
+  "nameKey": "item.projecte.gem_chestplate",
+  "model": "projecte:item/gem_chestplate",
+  "material": "netherite_chestplate"
+ },
+ "gem_helmet": {
+  "id": "projecte:gem_helmet",
+  "nameKey": "item.projecte.gem_helmet",
+  "model": "projecte:item/gem_helmet",
+  "material": "netherite_helmet"
+ },
+ "gem_leggings": {
+  "id": "projecte:gem_leggings",
+  "nameKey": "item.projecte.gem_leggings",
+  "model": "projecte:item/gem_leggings",
+  "material": "netherite_leggings"
+ },
+ "gem_of_eternal_density": {
+  "id": "projecte:gem_of_eternal_density",
+  "nameKey": "item.projecte.gem_of_eternal_density",
+  "model": "projecte:item/gem_of_eternal_density",
+  "material": "paper",
+  "zhName": "以太密度宝石"
+ },
+ "gray_alchemical_bag": {
+  "id": "projecte:gray_alchemical_bag",
+  "nameKey": "item.projecte.gray_alchemical_bag",
+  "model": "projecte:item/gray_alchemical_bag",
+  "material": "paper",
+  "zhName": "炼金术之袋"
+ },
+ "green_alchemical_bag": {
+  "id": "projecte:green_alchemical_bag",
+  "nameKey": "item.projecte.green_alchemical_bag",
+  "model": "projecte:item/green_alchemical_bag",
+  "material": "paper",
+  "zhName": "炼金术之袋"
+ },
+ "harvest_goddess_band": {
+  "id": "projecte:harvest_goddess_band",
+  "nameKey": "item.projecte.harvest_goddess_band",
+  "model": "projecte:item/harvest_goddess_band",
+  "material": "paper",
+  "zhName": "丰收女神戒指"
+ },
+ "high_covalence_dust": {
+  "id": "projecte:high_covalence_dust",
+  "nameKey": "item.projecte.high_covalence_dust",
+  "model": "projecte:item/high_covalence_dust",
+  "material": "paper",
+  "zhName": "高等共价粉"
+ },
+ "hyperkinetic_lens": {
+  "id": "projecte:hyperkinetic_lens",
+  "nameKey": "item.projecte.hyperkinetic_lens",
+  "model": "projecte:item/hyperkinetic_lens",
+  "material": "paper",
+  "zhName": "不稳定水晶"
+ },
+ "ignition_ring": {
+  "id": "projecte:ignition_ring",
+  "nameKey": "item.projecte.ignition_ring",
+  "model": "projecte:item/ignition_ring",
+  "material": "paper",
+  "zhName": "烈焰指环"
+ },
+ "iron_band": {
+  "id": "projecte:iron_band",
+  "nameKey": "item.projecte.iron_band",
+  "model": "projecte:item/iron_band",
+  "material": "paper",
+  "zhName": "铁指环"
+ },
+ "klein_star_drei": {
+  "id": "projecte:klein_star_drei",
+  "nameKey": "item.projecte.klein_star_drei",
+  "model": "projecte:item/klein_star_drei",
+  "material": "paper",
+  "zhName": "三级卡莱恩能量之星"
+ },
+ "klein_star_ein": {
+  "id": "projecte:klein_star_ein",
+  "nameKey": "item.projecte.klein_star_ein",
+  "model": "projecte:item/klein_star_ein",
+  "material": "paper",
+  "zhName": "一级卡莱恩能量之星"
+ },
+ "klein_star_omega": {
+  "id": "projecte:klein_star_omega",
+  "nameKey": "item.projecte.klein_star_omega",
+  "model": "projecte:item/klein_star_omega",
+  "material": "paper",
+  "zhName": "六级卡莱恩能量之星"
+ },
+ "klein_star_sphere": {
+  "id": "projecte:klein_star_sphere",
+  "nameKey": "item.projecte.klein_star_sphere",
+  "model": "projecte:item/klein_star_sphere",
+  "material": "paper",
+  "zhName": "五级卡莱恩能量之星"
+ },
+ "klein_star_vier": {
+  "id": "projecte:klein_star_vier",
+  "nameKey": "item.projecte.klein_star_vier",
+  "model": "projecte:item/klein_star_vier",
+  "material": "paper",
+  "zhName": "四级卡莱恩能量之星"
+ },
+ "klein_star_zwei": {
+  "id": "projecte:klein_star_zwei",
+  "nameKey": "item.projecte.klein_star_zwei",
+  "model": "projecte:item/klein_star_zwei",
+  "material": "paper",
+  "zhName": "二级卡莱恩能量之星"
+ },
+ "life_stone": {
+  "id": "projecte:life_stone",
+  "nameKey": "item.projecte.life_stone",
+  "model": "projecte:item/life_stone",
+  "material": "paper",
+  "zhName": "生命宝石"
+ },
+ "light_blue_alchemical_bag": {
+  "id": "projecte:light_blue_alchemical_bag",
+  "nameKey": "item.projecte.light_blue_alchemical_bag",
+  "model": "projecte:item/light_blue_alchemical_bag",
+  "material": "paper",
+  "zhName": "炼金术之袋"
+ },
+ "light_gray_alchemical_bag": {
+  "id": "projecte:light_gray_alchemical_bag",
+  "nameKey": "item.projecte.light_gray_alchemical_bag",
+  "model": "projecte:item/light_gray_alchemical_bag",
+  "material": "paper",
+  "zhName": "炼金术之袋"
+ },
+ "lime_alchemical_bag": {
+  "id": "projecte:lime_alchemical_bag",
+  "nameKey": "item.projecte.lime_alchemical_bag",
+  "model": "projecte:item/lime_alchemical_bag",
+  "material": "paper",
+  "zhName": "炼金术之袋"
+ },
+ "low_covalence_dust": {
+  "id": "projecte:low_covalence_dust",
+  "nameKey": "item.projecte.low_covalence_dust",
+  "model": "projecte:item/low_covalence_dust",
+  "material": "paper",
+  "zhName": "低等共价粉"
+ },
+ "magenta_alchemical_bag": {
+  "id": "projecte:magenta_alchemical_bag",
+  "nameKey": "item.projecte.magenta_alchemical_bag",
+  "model": "projecte:item/magenta_alchemical_bag",
+  "material": "paper",
+  "zhName": "炼金术之袋"
+ },
+ "medium_covalence_dust": {
+  "id": "projecte:medium_covalence_dust",
+  "nameKey": "item.projecte.medium_covalence_dust",
+  "model": "projecte:item/medium_covalence_dust",
+  "material": "paper",
+  "zhName": "中等共价粉"
+ },
+ "mercurial_eye": {
+  "id": "projecte:mercurial_eye",
+  "nameKey": "item.projecte.mercurial_eye",
+  "model": "projecte:item/mercurial_eye",
+  "material": "paper",
+  "zhName": "墨丘利之眼"
+ },
+ "mind_stone": {
+  "id": "projecte:mind_stone",
+  "nameKey": "item.projecte.mind_stone",
+  "model": "projecte:item/mind_stone",
+  "material": "paper",
+  "zhName": "念之宝石"
+ },
+ "mobius_fuel": {
+  "id": "projecte:mobius_fuel",
+  "nameKey": "item.projecte.mobius_fuel",
+  "model": "projecte:item/mobius_fuel",
+  "material": "paper",
+  "zhName": "莫比乌斯燃料"
+ },
+ "orange_alchemical_bag": {
+  "id": "projecte:orange_alchemical_bag",
+  "nameKey": "item.projecte.orange_alchemical_bag",
+  "model": "projecte:item/orange_alchemical_bag",
+  "material": "paper",
+  "zhName": "炼金术之袋"
+ },
+ "philosophers_stone": {
+  "id": "projecte:philosophers_stone",
+  "nameKey": "item.projecte.philosophers_stone",
+  "model": "projecte:item/philosophers_stone",
+  "material": "paper",
+  "zhName": "贤者之石"
+ },
+ "pink_alchemical_bag": {
+  "id": "projecte:pink_alchemical_bag",
+  "nameKey": "item.projecte.pink_alchemical_bag",
+  "model": "projecte:item/pink_alchemical_bag",
+  "material": "paper",
+  "zhName": "炼金术之袋"
+ },
+ "purple_alchemical_bag": {
+  "id": "projecte:purple_alchemical_bag",
+  "nameKey": "item.projecte.purple_alchemical_bag",
+  "model": "projecte:item/purple_alchemical_bag",
+  "material": "paper",
+  "zhName": "炼金术之袋"
+ },
+ "red_alchemical_bag": {
+  "id": "projecte:red_alchemical_bag",
+  "nameKey": "item.projecte.red_alchemical_bag",
+  "model": "projecte:item/red_alchemical_bag",
+  "material": "paper",
+  "zhName": "炼金术之袋"
+ },
+ "red_matter": {
+  "id": "projecte:red_matter",
+  "nameKey": "item.projecte.red_matter",
+  "model": "projecte:item/red_matter",
+  "material": "paper",
+  "zhName": "红物质"
+ },
+ "repair_talisman": {
+  "id": "projecte:repair_talisman",
+  "nameKey": "item.projecte.repair_talisman",
+  "model": "projecte:item/repair_talisman",
+  "material": "paper",
+  "zhName": "修复护符"
+ },
+ "rm_axe": {
+  "id": "projecte:rm_axe",
+  "nameKey": "item.projecte.rm_axe",
+  "model": "projecte:item/rm_axe",
+  "material": "netherite_axe",
+  "zhName": "红物质斧"
+ },
+ "rm_boots": {
+  "id": "projecte:rm_boots",
+  "nameKey": "item.projecte.rm_boots",
+  "model": "projecte:item/rm_boots",
+  "material": "netherite_boots",
+  "zhName": "红物质靴子"
+ },
+ "rm_chestplate": {
+  "id": "projecte:rm_chestplate",
+  "nameKey": "item.projecte.rm_chestplate",
+  "model": "projecte:item/rm_chestplate",
+  "material": "netherite_chestplate",
+  "zhName": "红物质胸甲"
+ },
+ "rm_hammer": {
+  "id": "projecte:rm_hammer",
+  "nameKey": "item.projecte.rm_hammer",
+  "model": "projecte:item/rm_hammer",
+  "material": "netherite_axe",
+  "zhName": "红物质锤"
+ },
+ "rm_helmet": {
+  "id": "projecte:rm_helmet",
+  "nameKey": "item.projecte.rm_helmet",
+  "model": "projecte:item/rm_helmet",
+  "material": "netherite_helmet",
+  "zhName": "红物质头盔"
+ },
+ "rm_hoe": {
+  "id": "projecte:rm_hoe",
+  "nameKey": "item.projecte.rm_hoe",
+  "model": "projecte:item/rm_hoe",
+  "material": "netherite_hoe",
+  "zhName": "红物质锄"
+ },
+ "rm_katar": {
+  "id": "projecte:rm_katar",
+  "nameKey": "item.projecte.rm_katar",
+  "model": "projecte:item/rm_katar",
+  "material": "netherite_axe",
+  "zhName": "红物质拳剑"
+ },
+ "rm_leggings": {
+  "id": "projecte:rm_leggings",
+  "nameKey": "item.projecte.rm_leggings",
+  "model": "projecte:item/rm_leggings",
+  "material": "netherite_leggings",
+  "zhName": "红物质护腿"
+ },
+ "rm_morning_star": {
+  "id": "projecte:rm_morning_star",
+  "nameKey": "item.projecte.rm_morning_star",
+  "model": "projecte:item/rm_morning_star",
+  "material": "netherite_axe",
+  "zhName": "红物质钉头锤"
+ },
+ "rm_pick": {
+  "id": "projecte:rm_pick",
+  "nameKey": "item.projecte.rm_pick",
+  "model": "projecte:item/rm_pick",
+  "material": "netherite_pickaxe",
+  "zhName": "红物质镐"
+ },
+ "rm_shears": {
+  "id": "projecte:rm_shears",
+  "nameKey": "item.projecte.rm_shears",
+  "model": "projecte:item/rm_shears",
+  "material": "shears",
+  "zhName": "红物质剪刀"
+ },
+ "rm_shovel": {
+  "id": "projecte:rm_shovel",
+  "nameKey": "item.projecte.rm_shovel",
+  "model": "projecte:item/rm_shovel",
+  "material": "netherite_shovel",
+  "zhName": "红物质铲"
+ },
+ "rm_sword": {
+  "id": "projecte:rm_sword",
+  "nameKey": "item.projecte.rm_sword",
+  "model": "projecte:item/rm_sword",
+  "material": "netherite_sword",
+  "zhName": "红物质剑"
+ },
+ "soul_stone": {
+  "id": "projecte:soul_stone",
+  "nameKey": "item.projecte.soul_stone",
+  "model": "projecte:item/soul_stone",
+  "material": "paper",
+  "zhName": "灵魂宝石"
+ },
+ "swiftwolf_rending_gale": {
+  "id": "projecte:swiftwolf_rending_gale",
+  "nameKey": "item.projecte.swiftwolf_rending_gale",
+  "model": "projecte:item/swiftwolf_rending_gale",
+  "material": "paper",
+  "zhName": "疾风戒指"
+ },
+ "tome": {
+  "id": "projecte:tome",
+  "nameKey": "item.projecte.tome",
+  "model": "projecte:item/tome",
+  "material": "paper",
+  "zhName": "炼金术秘卷"
+ },
+ "transmutation_tablet": {
+  "id": "projecte:transmutation_tablet",
+  "nameKey": "item.projecte.transmutation_tablet",
+  "model": "projecte:item/transmutation_tablet",
+  "material": "paper",
+  "zhName": "便携式转化桌"
+ },
+ "void_ring": {
+  "id": "projecte:void_ring",
+  "nameKey": "item.projecte.void_ring",
+  "model": "projecte:item/void_ring",
+  "material": "paper"
+ },
+ "volcanite_amulet": {
+  "id": "projecte:volcanite_amulet",
+  "nameKey": "item.projecte.volcanite_amulet",
+  "model": "projecte:item/volcanite_amulet",
+  "material": "paper",
+  "zhName": "熔焰护符"
+ },
+ "watch_of_flowing_time": {
+  "id": "projecte:watch_of_flowing_time",
+  "nameKey": "item.projecte.watch_of_flowing_time",
+  "model": "projecte:item/watch_of_flowing_time",
+  "material": "paper",
+  "zhName": "时间洪流怀表"
+ },
+ "white_alchemical_bag": {
+  "id": "projecte:white_alchemical_bag",
+  "nameKey": "item.projecte.white_alchemical_bag",
+  "model": "projecte:item/white_alchemical_bag",
+  "material": "paper",
+  "zhName": "炼金术之袋"
+ },
+ "yellow_alchemical_bag": {
+  "id": "projecte:yellow_alchemical_bag",
+  "nameKey": "item.projecte.yellow_alchemical_bag",
+  "model": "projecte:item/yellow_alchemical_bag",
+  "material": "paper",
+  "zhName": "炼金术之袋"
+ },
+ "zero_ring": {
+  "id": "projecte:zero_ring",
+  "nameKey": "item.projecte.zero_ring",
+  "model": "projecte:item/zero_ring",
+  "material": "paper",
+  "zhName": "零度指环"
+ }
+}
